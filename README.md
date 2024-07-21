@@ -16,6 +16,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+Use node v20 lts
+
 ```sh
 npm install
 ```
